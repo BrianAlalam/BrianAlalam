@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**BrianAlalam/BrianAlalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Developer
+🔐 Interested in Cybersecurity & Pentesting
+🐍 Working with Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+* Pentest Platform
+* Learning cybersecurity tools
+* Improving Python skills
+
+---
+
+## 🛠️ Skills
+
+* Python
+* Linux basics
+* Networking basics
+* Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔐 Pentest Platform
+
+A Python-based project for penetration testing tools and security workflows.
+
+---
+
+## 🎯 Goals
+
+* Build useful cybersecurity tools
+* Create multiple strong projects
+* Improve coding consistency
